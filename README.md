@@ -6,9 +6,11 @@ This repository contains a Jupyter notebook which is based on an amazing video b
 Dependencies :
 * Numpy
 * Matplotlib
+* Seaborn (to make your plots look beautiful)
 
 Installation is quite simple on Ubuntu
 ```
 pip3 install --user numpy
 pip3 install --user matplotlib
+pip3 install --user seaborn
 ```
